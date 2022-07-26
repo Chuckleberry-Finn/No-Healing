@@ -1,4 +1,6 @@
 version=1
+id=2840527826
 title=No Healing
 description=Intended for challenges. Injuries do not heal over time. Wounds need to be bandaged or stitched to stop bleeding.
+tags=Build 41;Hardmode;Misc;Silly/Fun
 visibility=public
