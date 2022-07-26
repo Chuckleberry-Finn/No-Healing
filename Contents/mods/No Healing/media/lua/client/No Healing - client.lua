@@ -8,6 +8,9 @@ local function noHeal(player)
     local pBodyDamage = player:getBodyDamage()
     local pbdBodyParts = pBodyDamage:getBodyParts()
 
+    pBodyDamage:setHealthFromFoodTimer(0)
+    pBodyDamage:setHealthFromFood(0)
+
     for i=0, pbdBodyParts:size()-1 do
         ---@type BodyPart
         local BodyPart = pbdBodyParts:get(i)
