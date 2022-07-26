@@ -1,0 +1,5 @@
+name=No Healing
+id=NoHealing
+description=Players do not passive heal over time. Wounds need to be bandages or stiched to stop bleeding.
+poster=poster.png
+
