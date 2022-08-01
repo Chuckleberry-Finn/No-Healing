@@ -1,0 +1,31 @@
+VERSION = 1,
+
+option NoHealing.Food
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Food,}
+
+option NoHealing.Passive
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Passive,}
+
+option NoHealing.Sleeping
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Sleeping,}
+
+option NoHealing.Scratch
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Scratch,}
+
+option NoHealing.Cut
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Cut,}
+
+option NoHealing.Bite
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Bite,}
+
+option NoHealing.Bleeding
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Bleeding,}
+
+option NoHealing.Burn
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Burn,}
+
+option NoHealing.Fracture
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_Fracture,}
+
+option NoHealing.DeepWound
+{type = boolean, default = true, page = NoHealing, translation = NoHealing_DeepWound,}

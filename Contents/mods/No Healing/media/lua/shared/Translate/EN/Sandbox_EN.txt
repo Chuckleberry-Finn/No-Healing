@@ -1,0 +1,30 @@
+Sandbox_EN = {
+
+    Sandbox_NoHealing = "No Healing",
+
+    Sandbox_NoHealing_Food = "No Healing From Food",
+    Sandbox_NoHealing_Food_tooltip = "Disables healing from food, and as well as bonuses to healing over time.",
+
+    Sandbox_NoHealing_Passive = "No Passive Healing Over Time",
+    Sandbox_NoHealing_Passive_tooltip = "Your character will not heal over time."
+
+    Sandbox_NoHealing_Sleeping = "No Passive Healing While Sleeping",
+    Sandbox_NoHealing_Sleeping_tooltip = "Your character will not heal over time while sleeping."
+
+    Sandbox_NoHealing_Scratch = "Scratches Never Heal",
+
+    Sandbox_NoHealing_Cut = "Lacerations Never Heal",
+
+    Sandbox_NoHealing_Bite = "Bite Wounds Never Heal",
+
+    Sandbox_NoHealing_Bleeding = "Bleeding Never Stops",
+    Sandbox_NoHealing_Bleeding_tooltip = "Bleeding never stops unless bandaged.",
+
+    Sandbox_NoHealing_Burn = "Burns Never Heal",
+    Sandbox_NoHealing_Burn_tooltip = "Burns never heal and need to be redressed forever.",
+
+    Sandbox_NoHealing_Fracture = "Fractures Never Heal",
+
+    Sandbox_NoHealing_DeepWound = "Deep Wounds Never Heal",
+    Sandbox_NoHealing_DeepWound_tooltip = "Deep wounds will never heal, they can still be stitched.",
+}
