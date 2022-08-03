@@ -2,5 +2,10 @@ version=1
 id=2840527826
 title=No Healing
 description=[h2]Intended for challenges. Injuries do not heal over time. Bleeding never stops. Wounds can still be bandaged or stitched to stop bleeding.[/h2]
+description=
+description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck![/b][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/Vanilla-Weapons-Expanded/main/Contents/mods/VanillaWeaponsExpanded/patreon/Patreon%20Logo.png[/img][/url]
+description=
 tags=Build 41;Hardmode;Misc;Silly/Fun
 visibility=public
