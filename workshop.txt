@@ -1,11 +1,11 @@
 version=1
 id=2840527826
 title=No Healing Challenge
-description=[h2]Intended for challenges. Injuries do not heal over time. Bleeding never stops. Wounds can still be bandaged or stitched to stop bleeding.[/h2]
+description=[h3]Intended for challenges. Injuries do not heal over time. Bleeding never stops. Wounds can still be bandaged or stitched to stop bleeding.[/h3]
 description=
-description=[img]https://i.imgur.com/p7Fv1Z6.gif[/img]
+description=[url=https://ko-fi.com/chuckleberryfinn][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/kofi.png[/img][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/chuckImages/main/patreon.png[/img][/url]
 description=
-description=[url=https://ko-fi.com/chuckleberryfinn][img]https://i.imgur.com/GxZ38nz.png[/img] [b]Consider supporting Chuck![/b][/url] [url=https://www.patreon.com/bePatron?u=17239488][img]https://raw.githubusercontent.com/ChuckTheSheep/Vanilla-Weapons-Expanded/main/Contents/mods/VanillaWeaponsExpanded/patreon/Patreon%20Logo.png[/img][/url]
 description=
+description=[h3]Copyright 2023 Chuckleberry Finn. This item is not authorized for posting on Steam, except under the Steam account named Chuckleberry Finn.[/h3]
 tags=Build 41;Hardmode;Misc;Silly/Fun
 visibility=public
